@@ -51,10 +51,10 @@ def phishing_attack():
     print("[Phishing] Enviando email de phishing...")
 
     # Configuração do email
-    sender_email = "gabowoitovetch09@gmail.com"
-    sender_password = "gsiv bmtq kput dayo"
+    sender_email = "seu email"
+    sender_password = "configure seu gmail e insira a password que habilita esta função"
     subject = "Confira sua nova playlist do Spotify!"
-    phishing_link = "http://playlist-spotify.fwh.is"
+    phishing_link = "link do bypass"
 
     # Corpo do email
     body = f"Olá,\n\nConfira sua nova playlist personalizada do Spotify clicando no link abaixo:\n{phishing_link}\n\nAproveite!"
